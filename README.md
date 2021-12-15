@@ -1,6 +1,6 @@
-- 👋 Hello there, I’m @j-dover
+- 👋 Hello there, I’m @j-dover.
 - 👀 I’m interested in back-end and full-stack web development.
-- 💞️ I’m looking to collaborate on open source health projects.
+- 💞️ I’m looking to collaborate on open source projects related to health.
 <!--- -🌱 I’m currently learning ... -->
 <!-- - 📫 How to reach me ... -->
 
