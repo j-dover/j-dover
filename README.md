@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m Jenny (@j-dover).
-- 👀 I’m interested in back-end and full-stack development.
+- 👀 I’m interested in full-stack development.
 - 💞️ I’m looking to collaborate on open source projects related to health, learning, self-improvement, and games.
 - 💻 I'm currently seeking full-time and contract positions in software engineering.
 <!--- -🌱 I’m currently learning ... -->
